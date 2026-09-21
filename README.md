@@ -10,11 +10,11 @@ macOS Tahoeを意識したインターフェースで、ログファイルを読
 
 ### ホーム画面
 
-<img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/46880976-bb1f-43d6-b5e3-32d4728e083c" />
+<img width="1470" height="922" alt="image" src="https://github.com/user-attachments/assets/6b093cd8-f235-4343-8af8-86b0fd5a3a6f" />
 
 ### ログ表示画面
 
-<img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/d0bed987-4af8-4a1d-b676-d77d2f833b07" />
+<img width="1470" height="922" alt="image" src="https://github.com/user-attachments/assets/20c77486-8076-4be0-8bbb-163d7d15df34" />
 
 ## 主な機能
 
